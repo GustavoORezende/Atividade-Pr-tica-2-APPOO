@@ -1,0 +1,6 @@
+usuario: Gustavo | tipo: Livro | detalhe: O Samurai
+usuario: Rafael | tipo: Livro | detalhe: O Labubu
+usuario: Gustavo | tipo: Livro | detalhe: O Samurai
+usuario: Outro Gustavo | tipo: Revista | detalhe: O clone
+usuario: O mesmo Rafael | tipo: Revista | detalhe: Rei do BrainRot
+usuario: Outro Gustavo | tipo: Revista | detalhe: O clone
